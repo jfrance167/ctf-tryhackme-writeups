@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Authorized web assessment flow</title>
+  <desc id="desc">A workflow from defining scope through reconnaissance, validation, evidence collection, and remediation.</desc>
+  <rect width="1200" height="300" fill="#111827" rx="18"/>
+  <style>text{font-family:Arial,sans-serif;fill:#f8fafc}.h{font-size:24px;font-weight:bold}.s{font-size:16px}.box{fill:#1f2937;stroke:#f59e0b;stroke-width:2}.arrow{stroke:#a3e635;stroke-width:5;fill:none}</style>
+  <text x="48" y="50" class="h">Authorized web-assessment workflow</text>
+  <g transform="translate(44 112)">
+    <g><rect class="box" width="190" height="92" rx="12"/><text x="48" y="39" class="h">1. Scope</text><text x="23" y="68" class="s">Confirm lab target</text></g>
+    <path class="arrow" d="M202 46H230"/><path fill="#a3e635" d="M230 38l16 8-16 8z"/>
+    <g transform="translate(250)"><rect class="box" width="190" height="92" rx="12"/><text x="24" y="39" class="h">2. Enumerate</text><text x="27" y="68" class="s">Service + content</text></g>
+    <path class="arrow" d="M408 46H436"/><path fill="#a3e635" d="M436 38l16 8-16 8z"/>
+    <g transform="translate(456)"><rect class="box" width="190" height="92" rx="12"/><text x="29" y="39" class="h">3. Validate</text><text x="29" y="68" class="s">Manual verification</text></g>
+    <path class="arrow" d="M614 46H642"/><path fill="#a3e635" d="M642 38l16 8-16 8z"/>
+    <g transform="translate(662)"><rect class="box" width="190" height="92" rx="12"/><text x="26" y="39" class="h">4. Evidence</text><text x="26" y="68" class="s">Redacted record</text></g>
+    <path class="arrow" d="M820 46H848"/><path fill="#a3e635" d="M848 38l16 8-16 8z"/>
+    <g transform="translate(868)"><rect class="box" width="230" height="92" rx="12"/><text x="30" y="39" class="h">5. Remediate</text><text x="18" y="68" class="s">Fix, verify, monitor</text></g>
+  </g>
+</svg>

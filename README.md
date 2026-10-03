@@ -34,3 +34,22 @@ Then embed it with descriptive alt text:
 ```md
 ![Redacted HTTP response headers](../assets/http-in-detail/01-response-headers.png)
 ```
+
+## Reading the material
+
+Clone the repository and open the linked Markdown guides in a text or Markdown viewer. No service, package installation, or attack execution is needed to read the material. Follow each platform’s current sharing rules before adding new evidence.
+
+## Repository map
+
+```text
+ctf-tryhackme-writeups/
+|-- .gitignore
+|-- LICENSE
+|-- README.md
+|-- SECURITY.md
+|-- assets/
+|-- packet-analysis/
+`-- tryhackme/
+```
+
+Follow the setup and safety boundaries above before running or deploying any code.

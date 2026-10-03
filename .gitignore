@@ -1,0 +1,12 @@
+
+# Local credentials and private evidence; tracked historical files are unchanged.
+.private/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.azure/
+parameters.local.json
+__pycache__/
+.venv/
